@@ -22,4 +22,4 @@ The above command will generate `CV-SergioTiagoMatias.pdf` which you can then vi
 
 OR
 
-just use Overleaf.
+just use [**Overleaf**](https://www.overleaf.com/).
