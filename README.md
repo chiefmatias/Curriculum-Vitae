@@ -13,7 +13,11 @@ Welcome to my personal CV repository. Here you'll find all the necessary files t
 If you wish to compile the CV from the LaTeX source:
 
 Run the LaTeX engine on `main.tex`. Something like:
-`pdflatex main.tex`
+
+``` 
+pdflatex main.tex
+```
+ 
 The above command will generate `CV-SergioTiagoMatias.pdf` which you can then view or print.
 
 OR
