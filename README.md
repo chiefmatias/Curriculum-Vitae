@@ -18,7 +18,7 @@ Run the LaTeX engine on `main.tex`. Something like:
 pdflatex main.tex
 ```
  
-The above command will generate `CV-SergioTiagoMatias.pdf` which you can then view or print.
+The above command will generate `CV-SergioTiagoMatias.pdf` which you can then view or print
 
 OR
 
